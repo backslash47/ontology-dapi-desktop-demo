@@ -1,4 +1,3 @@
-import * as Ontology from 'ontology-dapi';
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import { BrowserRouter, Route } from 'react-router-dom';
@@ -24,5 +23,4 @@ const App: React.SFC<{}> = () => (
   </BrowserRouter>
 );
 
-Ontology.client.registerClient({});
 ReactDOM.render(<App />, document.getElementById('root') as HTMLElement);
