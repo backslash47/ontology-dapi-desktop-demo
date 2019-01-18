@@ -1,4 +1,4 @@
-import { client } from 'ontology-dapi';
+import { client } from 'ontology-dapi-desktop';
 import * as React from 'react';
 import { RouterProps } from 'react-router';
 

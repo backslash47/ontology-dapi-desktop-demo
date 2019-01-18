@@ -1,5 +1,5 @@
 import arrayMutators from 'final-form-arrays';
-import { client, ParameterType } from 'ontology-dapi';
+import { client, ParameterType } from 'ontology-dapi-desktop';
 import * as React from 'react';
 import { Field, Form } from 'react-final-form';
 import { FieldArray } from 'react-final-form-arrays';

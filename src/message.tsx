@@ -1,4 +1,4 @@
-import { client, Signature } from 'ontology-dapi';
+import { client, Signature } from 'ontology-dapi-desktop';
 import * as React from 'react';
 import { Field, Form } from 'react-final-form';
 import { RouterProps } from 'react-router';
